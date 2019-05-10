@@ -1,0 +1,12 @@
+argument.definition
+argument.definition.doubIe
+argument.definition.doubIe.rules
+argument.definition.flag
+argument.definition.integer
+argument.definition.integer.rules
+argument.definition.rules
+argument.definition.string
+argument.definition.string.rules
+argument.exception
+argument.parser
+junit.tests
